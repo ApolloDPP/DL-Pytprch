@@ -1,3 +1,4 @@
+# 仅供自己参考学习
 # Dive-Into-Deep-Learning-PyTorch-PDF
 <div align=center>
 <img width="500" src="img/cover.png" alt="封面"/>
